@@ -1,5 +1,7 @@
 # 📊 Executive Sales & Profit Analytics Dashboard (Excel)
 
+![Dashboard Overview](Sales%20Dashboard%20screenshot.png)
+
 An interactive, executive-level Excel dashboard designed to analyze retail sales performance, profit margins, order distributions, and top-performing product categories.
 
 ---
